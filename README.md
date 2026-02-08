@@ -13,6 +13,7 @@
 [![Documentation](https://shields.io/badge/-documentation-452859)](https://docs.helix-editor.com/)
 [![GitHub contributors](https://img.shields.io/github/contributors/helix-editor/helix)](https://github.com/helix-editor/helix/graphs/contributors)
 [![Matrix Space](https://img.shields.io/matrix/helix-community:matrix.org)](https://matrix.to/#/#helix-community:matrix.org)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fhelix.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fhelix?ref=badge_shield)
 
 </div>
 
@@ -62,3 +63,7 @@ Discuss the project on the community [Matrix Space](https://matrix.to/#/#helix-c
 # Credits
 
 Thanks to [@jakenvac](https://github.com/jakenvac) for designing the logo!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fhelix.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fhelix?ref=badge_large)
